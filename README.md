@@ -1,2 +1,3 @@
 ##
-!(output)[images/output.png]
+
+![output](images/output.png)
